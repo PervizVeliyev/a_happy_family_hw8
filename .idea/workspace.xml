@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61fe23b8-96e0-4e08-abc1-ead72ee2b717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HumanCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RoboCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Species.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FamilyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HumanEqualsHashCodeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="61fe23b8-96e0-4e08-abc1-ead72ee2b717" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,18 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -120,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660075840004</updated>
       <workItem from="1660075842610" duration="1252000" />
-      <workItem from="1660077217379" duration="306000" />
+      <workItem from="1660077217379" duration="744000" />
     </task>
     <servers />
   </component>
