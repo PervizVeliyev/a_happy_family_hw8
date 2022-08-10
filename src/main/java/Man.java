@@ -1,7 +1,7 @@
 import java.util.Iterator;
 import java.util.Map;
 
-public class Man extends Human{
+public final class Man extends Human{
     public Man(String name, String surname, int year, int iq, Map<String,String> schedule) {
         super(name, surname, year, iq, schedule);
     }
